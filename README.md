@@ -1,0 +1,1 @@
+# Emotion-_Detection_from_Speech
